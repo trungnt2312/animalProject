@@ -8,3 +8,4 @@ mouse_eat{
   rice;
   food for mouse;
 }
+content: mouse scare cat
