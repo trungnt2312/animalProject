@@ -1,0 +1,9 @@
+cat_color{
+cat yellow;
+cat white;
+cat black;
+}
+
+cat_eat{
+food for cat;
+}
