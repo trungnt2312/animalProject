@@ -1,0 +1,10 @@
+mouse_color{
+  gray;
+  white;
+  black;
+}
+
+mouse_eat{
+  rice;
+  food for mouse;
+}
